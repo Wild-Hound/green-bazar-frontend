@@ -1,0 +1,67 @@
+[{
+    "name":"Product1",
+    "price":"24.95",
+    "image":"https://fakeimg.pl/300/",
+    "disc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen boo",
+    "weight":"235g"
+},{
+    "name":"Product2",
+    "price":"24.95",
+    "image":"https://fakeimg.pl/300/",
+    "disc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen boo",
+    "weight":"257g"
+},{
+    "name":"Product11",
+    "price":"54.98",
+    "image":"https://fakeimg.pl/300/",
+    "disc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen boo",
+    "weight":"197g"
+},{
+    "name":"Product3",
+    "price":"34.99",
+    "image":"https://fakeimg.pl/300/",
+    "disc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen boo",
+    "weight":"325g"
+},{
+    "name":"Product4",
+    "price":"43.00",
+    "image":"https://fakeimg.pl/300/",
+    "disc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen boo",
+    "weight":"155g"
+},{
+    "name":"Product5",
+    "price":"21.95",
+    "image":"https://fakeimg.pl/300/",
+    "disc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen boo",
+    "weight":"372g"
+},{
+    "name":"Product6",
+    "price":"64.84",
+    "image":"https://fakeimg.pl/300/",
+    "disc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen boo",
+    "weight":"256g"
+},{
+    "name":"Product7",
+    "price":"57.95",
+    "image":"https://fakeimg.pl/300/",
+    "disc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen boo",
+    "weight":"285g"
+},{
+    "name":"Product8",
+    "price":"66.00",
+    "image":"https://fakeimg.pl/300/",
+    "disc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen boo",
+    "weight":"137g"
+},{
+    "name":"Product9",
+    "price":"75.95",
+    "image":"https://fakeimg.pl/300/",
+    "disc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen boo",
+    "weight":"265g"
+},{
+    "name":"Product10",
+    "price":"77.77",
+    "image":"https://fakeimg.pl/300/",
+    "disc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen boo",
+    "weight":"345g"
+}]

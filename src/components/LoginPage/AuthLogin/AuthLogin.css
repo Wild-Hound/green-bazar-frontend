@@ -1,0 +1,15 @@
+.authBtnArea {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.authBtn {
+  width: 350px;
+  margin: auto;
+  padding: 10px 20px;
+  font-size: 18px;
+  border-radius: 5px;
+  border: 1px solid #999;
+  cursor: pointer;
+  margin: 10px auto;
+}

@@ -1,0 +1,33 @@
+.siteLogin {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+form {
+  text-align: start;
+  margin: 20px;
+  padding: 35px;
+  border: 1px solid #333;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  max-width: fit-content;
+  margin: 35px auto;
+}
+#passwordInput,
+#loginBtn,
+#emailInput {
+  font-size: 22px;
+  padding: 10px 20px;
+  margin: 35px 0;
+  display: block;
+}
+#passwordInput,
+#emailInput {
+  border: none;
+  border-bottom: 1px solid #333;
+  outline: none;
+  width: 350px;
+}

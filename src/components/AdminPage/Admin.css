@@ -1,0 +1,19 @@
+.admin {
+  position: relative;
+  min-height: 100vh;
+  display: flex;
+}
+.adminSideBar {
+  padding: 50px;
+  text-align: start;
+  font-size: 22px;
+  min-width: fit-content;
+}
+.adminSideBar > ul > li {
+  margin: 20px;
+  cursor: pointer;
+}
+.sidebarItem {
+  text-decoration: none;
+  color: #000;
+}

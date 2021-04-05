@@ -1,0 +1,44 @@
+.nav {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  box-sizing: border-box;
+  padding: 0 45px;
+}
+.siteTitle {
+  min-width: fit-content;
+  font-size: 32px;
+}
+.navUl {
+  display: flex;
+}
+.w100 {
+  width: 100%;
+}
+.navLinks {
+  margin: auto;
+}
+.siteNavLinks {
+  color: black;
+  text-decoration: none;
+}
+.navLinks > li {
+  margin: 0 10px;
+  font-size: 24px;
+}
+.profile > li {
+  font-size: 18px;
+  margin: 0 10px;
+}
+
+@media only screen and (max-width: 750px) {
+  .nav {
+    flex-direction: column;
+  }
+  .navUl {
+    flex-direction: column;
+  }
+  .navUl li {
+    margin: 10px auto;
+  }
+}

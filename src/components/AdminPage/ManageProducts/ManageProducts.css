@@ -1,0 +1,32 @@
+.productManagment {
+  width: 100%;
+  padding: 35px 0;
+}
+.productManagment th {
+  font-size: 24px;
+  margin: 10px 0;
+}
+.productManagment td {
+  font-size: 20px;
+  font-weight: 500;
+  padding: 20px 0;
+}
+.productManagment tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+.editBtn,
+.deleteBtn {
+  font-size: 24px;
+  margin: 0 10px;
+  border: none;
+  padding: 5px;
+  cursor: pointer;
+}
+.editBtn {
+  background-color: #289672;
+  color: #fff;
+}
+.deleteBtn {
+  background-color: #d44000;
+  color: #fff;
+}

@@ -1,0 +1,26 @@
+.fitCon {
+  width: fit-content;
+  margin: auto;
+  padding: 50px;
+}
+.d-f-s {
+  display: flex;
+  justify-content: start;
+  gap: 25px;
+  margin: 35px auto;
+}
+.d-f-s > input {
+  padding: 5px 10px;
+  font-size: 20px;
+  border-radius: 5px;
+  border: 1px solid #999;
+  outline: none;
+}
+.ADPBtn {
+  font-size: 20px;
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: 1px solid #999;
+  outline: none;
+  cursor: pointer;
+}
