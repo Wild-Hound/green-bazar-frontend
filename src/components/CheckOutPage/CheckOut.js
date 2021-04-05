@@ -33,7 +33,7 @@ function CheckOut() {
             email:auth.email,
             product:selectedProducts
         }
-        fetch('http://localhost:5200/buy',{
+        fetch('https://desolate-stream-90591.herokuapp.com/buy',{
             method:"POST",
             headers : { 
                 'Content-Type': 'application/json',

@@ -21,7 +21,7 @@ function AddProducts() {
         const imgData = new FormData()
         imgData.set('key', '63f07279f0cf65c441494d21f318f551')
         imgData.append('image',uploadedImg)
-        await fetch('https://api.imgbb.com/1/upload',{
+        await fetch('https://api.imgbb.com/1/upload/1/upload',{
             method:'POST',
             body:imgData
         })
@@ -50,7 +50,7 @@ function AddProducts() {
              weight:weight
          }
 
-        await fetch('http://localhost:5200/add/product',{
+        await fetch('https://desolate-stream-90591.herokuapp.com/add/product',{
              method:'POST',
              headers : { 
                 'Content-Type': 'application/json',

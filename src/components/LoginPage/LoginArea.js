@@ -12,7 +12,7 @@ function LoginArea() {
     const history = useHistory()
 
     const firebaseConfig = {
-        apiKey: `${process.env.REACT_APP_API_KEY}`,
+        apiKey: `AIzaSyCV-Fe-nrTflgsgBBTjMnk5PmLDkHcKdkA`,
         authDomain: "react-tut-404.firebaseapp.com",
         projectId: "react-tut-404",
         storageBucket: "react-tut-404.appspot.com",

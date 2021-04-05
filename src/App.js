@@ -20,7 +20,7 @@ function App() {
   const [reRender, setReRender] = useState(false)
 
     useEffect(()=>{
-        fetch('http://localhost:5200/get/products')
+        fetch('https://desolate-stream-90591.herokuapp.com/get/products')
         .then(res=> res.json())
         .then(data=> setProducts(data))
         setReRender(false)

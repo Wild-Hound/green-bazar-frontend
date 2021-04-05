@@ -8,7 +8,7 @@ function ManageProducts() {
     const {produts,setReRender} = useContext(AuthContext)
 
     function deleteFromDB(e,product){
-        fetch(`http://localhost:5200/delete/${product._id}`,{
+        fetch(`https://desolate-stream-90591.herokuapp.com/delete/${product._id}`,{
             method:'DELETE'
         })
         .then(res => res.json())
